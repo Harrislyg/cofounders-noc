@@ -1,0 +1,396 @@
+body {
+    font-family: 'Roboto',sans-serif !important;
+    background-color: #EDEFED !important;
+  }
+#navBar {
+  margin: 0;
+  border: none;
+  border-radius: 0;
+}
+.mui-link {
+  text-align: center;
+}
+.navbar-custom {
+  color: #fff !important;
+  background: #00BCD4 !important;
+
+}
+
+.navbar-font {
+  text-shadow: unset !important;
+  font-family: BlinkMacSystemFont;
+  color: #fff !important;
+
+}
+
+.nav-element {
+  margin-top: 10px !important;
+}
+
+#logo {
+  font-size: 1.6em !important;
+  font-weight: 600 !important;
+  border: 1px solid #fff !important;
+  margin: 5px;
+}
+
+.navbar-nav>li>a {
+  text-shadow: unset !important;
+
+}
+
+.icon-bar {
+  background: #fff !important;
+
+}
+
+.home-header {
+  color: #484848 !important;
+  text-align: center;
+}
+
+#home-top {
+  font-weight: 500;
+  margin-top: 20px;
+}
+
+.home-div {
+  padding-top: 20px;
+  width: 80%;
+  margin: 0 auto;
+
+}
+
+#home-one {
+  height: 250px;
+  width: 47%;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  background-image: url('https://cdn2.hubspot.net/hub/235279/hubfs/images/business-data-supply.jpg?t=1470744397032&width=960&height=540');
+  background-repeat:no-repeat;
+  background-size:cover;
+}
+#home-two {
+  height: 250px;
+  width: 47%;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  background-image: url('http://picknotebook.com/blog/wp-content/uploads/2015/11/best-laptop-for-programming.jpg');
+  background-repeat:no-repeat;
+  background-size:cover;
+}
+#home-three {
+  height: 250px;
+  width: 47%;
+  margin-right: 10px;
+  margin-top: 10px;
+  background-image: url('http://eee.hku.edu.tr/Dosyalar/18062015155232-img_index.jpg');
+  background-repeat:no-repeat;
+  background-size:cover;
+}
+#home-four {
+  height: 250px;
+  width: 47%;
+  margin-left: 10px;
+  margin-top: 10px;
+  background-image: url('https://i.ytimg.com/vi/3n4to_eF5NU/maxresdefault.jpg');
+  background-repeat:no-repeat;
+  background-size:cover;
+}
+
+.home-links {
+  text-decoration: none;
+  font-size: 2.3em;
+  color: #fff;
+  text-align: center;
+  line-height: 200px;
+  font-weight: 500;
+}
+
+.home-links:hover {
+  text-decoration: none;
+  font-size: 2.3em;
+  color: #fff;
+  text-align: center;
+  line-height: 200px;
+  font-weight: 500;
+}
+
+
+#panel-image {
+  margin: 0;
+  width: 100%;
+  height: 300px;
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-image: url('http://i.huffpost.com/gen/1645650/images/o-STARTUP-facebook.jpg');
+  background-position-y: -25px;
+}
+
+#grid-gap {
+  margin: 0;
+  padding: 5px;
+}
+
+#profiles-picture {
+  width: 120px;
+  height: 120px;
+  display: inline-block;
+  float: left;
+  background-color: #fff;
+}
+
+#profiles-right {
+  float: left;
+  margin-left: 15px;
+}
+
+#profiles-bottom-left {
+  width: 120px;
+  margin-top: 10px;
+  clear: both;
+  float: left;
+}
+
+
+#profiles-bottom-right {
+  width: 100px;
+  padding-left: 15px;
+  margin-top: 10px;
+  float: left;
+}
+
+#profiles-name {
+  font-size: 1.7em;
+  font-weight: 500;
+  color: #484848;
+}
+
+#profiles-expertise {
+  font-size: 1.4em;
+  font-weight: 500;
+  color: #00BCD4;
+}
+
+.profiles-btm {
+  margin-bottom: 15px;
+  color: #484848;
+}
+
+#profiles-bottom-inner-left {
+  text-align: right;
+  float: right;
+}
+
+.grid-gap2 {
+  margin: 0;
+  padding: 50px;
+}
+
+.profpic {
+  width: 180px;
+  height: 180px;
+  background-color: #fff;
+  float: left;
+}
+
+.floaton {
+  float: left;
+  margin-left: 40px;
+}
+
+.iconscontainer {
+  width: 200px;
+  height: 20px;
+  display: flex;
+}
+
+.iconscontainer > a {
+  color: #00BCD4;
+  text-decoration: none;
+  padding: 1px;
+}
+
+#biggerfont {
+  font-size: 20px;
+}
+
+.smallpanel {
+  width: 100%;
+  height: 25%;
+  background-color: #00BCD4;
+  font-size: 15px;
+}
+
+#muipanel {
+  padding: 0;
+}
+
+#marginleft {
+  margin-left: 15px;
+}
+
+.strong {
+  font-weight: bold;
+}
+
+.whitefont {
+  color: white;
+}
+
+#marginlefttop {
+  margin-left: 15px;
+  padding-top: 10px;
+}
+
+#editUserLink {
+  color: #fff;
+  text-decoration: none;
+
+}
+
+#editUserLink:hover {
+  color: #fff;
+  text-decoration: none;
+
+}
+
+#preview {
+  border: 1px solid gray;
+  width: 180px;
+  height: 180px;
+}
+
+#hoverCursor {
+  cursor: pointer;
+  cursor: hand;
+}
+
+#nav-profile {
+  padding-right: 0px;
+}
+
+.banner {
+  width: 100%;
+  height: 500px;
+  background-image: url('http://www.incimages.com/uploaded_files/image/1940x900/teamwork_37918.jpg');
+  background-repeat:no-repeat;
+  background-size:cover;
+  zoom: 50%;
+}
+
+.flexContainer {
+
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+
+.btmNavRemainderStyle {
+  color: #00BCD4 !important;
+  text-decoration: none;
+  margin-top: 5px;
+  background-color: #fff;
+}
+
+.btmNavRemainderStyle:visited {
+  text-decoration: none;
+  color: #00BCD4 !important;
+  margin-top: 5px;
+  background-color: #fff;
+}
+
+.btmNavRemainderStyle:link {
+  text-decoration: none;
+  color: #00BCD4 !important;
+  margin-top: 5px;
+  background-color: #fff;
+}
+
+.btmNavRemainderStyle:hover {
+  text-decoration: none;
+  color: #00BCD4 !important;
+  margin-top: 5px;
+  background-color: #fff;
+}
+
+.btmNavRemainderStyle:active {
+  text-decoration: none;
+  color: #00BCD4 !important;
+  margin-top: 5px;
+  background-color: #fff;
+}
+
+.flexContainer div {
+  position:relative;
+  flex-grow: 1;
+  height: 40px;
+  margin-left: 5px;
+  margin-right: 5px;
+  text-align: center;
+  font-weight: 600 !important;
+  font-size: 1.1em !important;
+  padding-top: 10px;
+
+}
+
+
+/* To design the triangle */
+.btmNavOneStyle:after {
+  position:relative;
+  flex-grow: 1;
+  height: 40px;
+  margin-left: 150px;
+  margin-right: 150px;
+  text-align: center;
+  font-weight: 600 !important;
+  font-size: 1.1em !important;
+  padding-top: 10px;
+  content:'';
+    position: absolute;
+    bottom: 100%;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    width: 0;
+    height: 0;
+    border-bottom: solid 30px #00BCD4;
+    border-left: solid 30px transparent;
+    border-right: solid 30px transparent;
+}
+
+.btmNavOneStyle {
+  text-decoration: none;
+  color: #fff;
+  margin-top: 5px;
+  background-color: #00BCD4;
+}
+
+.btmNavOneStyle:link {
+  text-decoration: none;
+  color: #fff;
+  margin-top: 5px;
+  background-color: #00BCD4;
+}
+
+.btmNavOneStyle:visited {
+  text-decoration: none;
+  color: #fff;
+  margin-top: 5px;
+  background-color: #00BCD4;
+}
+
+.btmNavOneStyle:hover {
+  text-decoration: none;
+  color: #fff;
+  margin-top: 5px;
+  background-color: #00BCD4;
+}
+
+.btmNavOneStyle:active {
+  text-decoration: none;
+  color: #fff;
+  margin-top: 5px;
+  background-color: #00BCD4;
+}
