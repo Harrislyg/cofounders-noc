@@ -6,7 +6,7 @@ If successful it will call a function name userAuthSuccess. It will also assign 
 NB. should be included after other js files
 */
 
-var serverURL = 'http://localhost:3000/'
+var serverURL = 'https://teamo-backend.herokuapp.com/'
 var currentUser = null
 
 // If local storage then load user, else call userAuthFailed
